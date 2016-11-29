@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/1473256486_BT_folder_file_open.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play-button.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/mute.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons/mute.png</file>
+    </qresource>
+</RCC>

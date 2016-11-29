@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ic_star_black_48dp_2x.png</file>
+        <file>ic_star_border_black_48dp_2x.png</file>
+    </qresource>
+</RCC>
