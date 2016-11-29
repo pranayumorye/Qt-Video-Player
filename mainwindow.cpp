@@ -202,7 +202,7 @@ void MainWindow::metadataHandler()
     QIcon hollowstar(":/ic_star_border_black_48dp_2x.png");
 
     db.current_path = player->currentMedia().canonicalUrl().toString();
-    current_playing_rating = db.getRatingOfTrack(db.current_path);
+    int current_playing_rating = db.getRatingOfTrack(db.current_path);
 
     switch(current_playing_rating)
     {
